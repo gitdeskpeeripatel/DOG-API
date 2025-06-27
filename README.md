@@ -12,8 +12,8 @@ This project is a simple and fun web application that displays a random dog imag
 # 📁 Folder Structure
 
 DOG-API/
-├── index.html        (Main HTML structure) 
-└── script.js         (JavaScript code to fetch and show dog images)
+
+├── index.html        (Main HTML structure) └── script.js         (JavaScript code to fetch and show dog images)
 
 ## ▶️ How to Run the Project
 1. Download or clone the project folder.  
