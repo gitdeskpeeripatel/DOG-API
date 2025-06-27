@@ -18,7 +18,7 @@ This project is a simple and fun web application that displays a random dog imag
 ## 🛠️ Technologies Used:
 - **HTML5** – Markup for structure  
 - **CSS3** *(optional styling if added)*  
-- **JavaScript (ES6)** – For API calls and DOM manipulation  
+- **JavaScript ** – For API calls and DOM manipulation  
 - **Dog API** – Public API to fetch random dog images  
 
 ## 📁 Folder Structure:
@@ -26,6 +26,7 @@ This project is a simple and fun web application that displays a random dog imag
 DOG-API/
 
 │
+
 ├── index.html        # Main HTML structure  
 └── script.js         # JavaScript code to fetch and show dog images  
 
